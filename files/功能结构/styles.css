@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:2000px;
+  width:1500px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -13,23 +13,23 @@
   position:absolute;
   z-index:0;
 }
-#u60_img {
+#u64_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2000px;
-  height:5891px;
+  width:1500px;
+  height:3951px;
 }
-#u60 {
+#u64 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2000px;
-  height:5891px;
+  width:1500px;
+  height:3951px;
 }
-#u60_text {
+#u64_text {
   border-width:0px;
   position:absolute;
   left:0px;
